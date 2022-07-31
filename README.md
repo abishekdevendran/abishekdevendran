@@ -1,10 +1,10 @@
 <p align="center">
 <ul>
 <li> 👋 Hi, I’m @abishekdevendran
-<li> 👀 I’m interested in ...
-<li> 🌱 I’m currently learning ...
+<li> 👀 I’m interested in ML and full stack solutions.
+<li> 🌱 I’m currently learning JS and Python.
 <li> 💞️ I’m looking to collaborate on ...
-<li> 📫 How to reach me ...
+<li> 📫 Drop me an email @ abishekdevendran@gmail.com
 </ul>
 </p>
 <p align="center">
