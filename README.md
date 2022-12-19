@@ -28,6 +28,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abishekdevendran&show_icons=true&locale=en" alt="abishekdevendran" /></p>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 08 December 2022 - To: 17 December 2022
+
+TypeScript   12 hrs 11 mins  >>>>>>>>>>>>>------------   51.29 %
+Python       9 hrs 8 mins    >>>>>>>>>>---------------   38.47 %
+JSON         1 hr 10 mins    >------------------------   04.95 %
+Markdown     58 mins         >------------------------   04.09 %
+Other        10 mins         -------------------------   00.73 %
+```
+
 <!--END_SECTION:waka-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abishekdevendran&" alt="abishekdevendran" /></p>
