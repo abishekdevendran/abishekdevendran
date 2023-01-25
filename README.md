@@ -29,7 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 December 2022 - To: 22 January 2023
+From: 08 December 2022 - To: 23 January 2023
 
 TypeScript   67 hrs 8 mins   >>>>>>>>>>>>>>>>>>>------   75.81 %
 Python       10 hrs 15 mins  >>>----------------------   11.57 %
