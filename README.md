@@ -29,13 +29,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2022 - To: 28 June 2023
+From: 08 December 2022 - To: 29 June 2023
 
-TypeScript      229 hrs 29 mins >>>>>>>>>>>>-------------   48.19 %
-JavaScript      73 hrs 36 mins  >>>>---------------------   15.46 %
-Python          48 hrs 22 mins  >>>----------------------   10.16 %
-C++             35 hrs 34 mins  >>-----------------------   07.47 %
-Markdown        29 hrs 37 mins  >>-----------------------   06.22 %
+TypeScript      232 hrs 5 mins  >>>>>>>>>>>>-------------   48.37 %
+JavaScript      74 hrs 35 mins  >>>>---------------------   15.55 %
+Python          48 hrs 22 mins  >>>----------------------   10.08 %
+C++             35 hrs 34 mins  >>-----------------------   07.42 %
+Markdown        29 hrs 37 mins  >>-----------------------   06.17 %
 ```
 
 <!--END_SECTION:waka-->
