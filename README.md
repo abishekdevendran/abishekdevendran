@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abishekdevendran&label=Profile%20views&color=0e75b6&style=flat" alt="abishekdevendran" /> </p>
 
-- 🌱 I’m currently learning **NextJS, Express, PYTorch, TypeScript**
+- 🌱 I’m currently learning **Hono, Sveltekit, LLM Agents, TypeScript and System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abishekdevendran](https://github.com/abishekdevendran)
 
