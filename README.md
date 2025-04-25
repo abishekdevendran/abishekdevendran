@@ -36,13 +36,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2022 - To: 23 April 2025
+From: 08 December 2022 - To: 24 April 2025
 
-TypeScript      637 hrs 40 mins >>>>>>>>>>>>-------------   48.32 %
-Python          183 hrs 25 mins >>>----------------------   13.90 %
-Svelte          138 hrs 15 mins >>>----------------------   10.48 %
-JavaScript      97 hrs 7 mins   >>-----------------------   07.36 %
-C++             74 hrs 53 mins  >------------------------   05.67 %
+TypeScript      637 hrs 40 mins >>>>>>>>>>>>-------------   48.19 %
+Python          185 hrs 39 mins >>>>---------------------   14.03 %
+Svelte          138 hrs 15 mins >>>----------------------   10.45 %
+JavaScript      97 hrs 7 mins   >>-----------------------   07.34 %
+C++             74 hrs 53 mins  >------------------------   05.66 %
 ```
 
 <!--END_SECTION:waka-->
