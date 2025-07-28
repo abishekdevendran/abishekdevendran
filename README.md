@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [SnapGram](https://github.com/abishekdevendran/snapgramv2)
+- 🔭 I’m currently working on [Chain Reaction](https://github.com/abishekdevendran/Chain-Reaction)
 
-- 🌱 I’m currently learning **Plugin Based backend architecture**
+- 🌱 I’m currently learning **Go, Kubernetes and orchestration**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abishekdevendran](https://github.com/abishekdevendran)
 
 - 📝 I regularly write articles on [https://abishek-devendran.pages.dev/](https://abishek-devendran.pages.dev/)
 
-- 💬 Ask me about **React, Svelte, Langchain, RAGs, Agentic systems.**
+- 💬 Ask me about **React, Svelte, Langchain, RAGs, Agentic systems, Rust and Go.**
 
 - 📫 How to reach me **abishekdevendran@gmail.com**
 
