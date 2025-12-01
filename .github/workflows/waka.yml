@@ -7,14 +7,21 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      # CHANGED: Switched from athul/waka-readme to anmol098/waka-readme-stats
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics.
-          SHOW_TITLE: true
-          BLOCKS: ->
-          TIME_RANGE: all_time
-          SHOW_TIME: true
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # Required for repo stats & committing
+          
+          # Optional: Custom flags based on the docs you provided
+          # You can set these to "False" if you want to hide specific sections
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_COMMIT: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_LINES_OF_CODE: "True" # This takes longer to run but looks cool
