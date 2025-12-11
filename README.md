@@ -67,7 +67,7 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C480%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -110,18 +110,17 @@ Sunday                   255 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     1 hr 20 mins        ████████████████████████░   95.82 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Java                     20 mins             ██████████████████████░░░   87.84 % 
+Text                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 24 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-advent-of-code-2025      1 hr 24 mins        █████████████████████████   100.00 % 
+advent-of-code-2025      22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 24 mins        █████████████████████████   100.00 % 
+Linux                    22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -141,6 +140,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2025 00:55:21 UTC
+ Last Updated on 11/12/2025 00:56:02 UTC
 <!--END_SECTION:waka-->
 </details>
