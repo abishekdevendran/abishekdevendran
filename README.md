@@ -110,17 +110,16 @@ Sunday                   255 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     20 mins             ██████████████████████░░░   87.84 % 
-Text                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-advent-of-code-2025      22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -140,6 +139,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 12/12/2025 00:55:33 UTC
+ Last Updated on 13/12/2025 00:52:00 UTC
 <!--END_SECTION:waka-->
 </details>
