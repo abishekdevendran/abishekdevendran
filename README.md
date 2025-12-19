@@ -65,7 +65,7 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C480%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C480%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -73,9 +73,9 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 
 **🐱 My GitHub Data** 
 
-> 📦 138.6 kB Used in GitHub's Storage 
+> 📦 139.2 kB Used in GitHub's Storage 
  > 
-> 🏆 88 Contributions in the Year 2025
+> 🏆 92 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -86,20 +86,20 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                583 commits         ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-🌆 Daytime                789 commits         █████████░░░░░░░░░░░░░░░░   36.96 % 
-🌃 Evening                717 commits         ████████░░░░░░░░░░░░░░░░░   33.58 % 
+🌞 Morning                583 commits         ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+🌆 Daytime                789 commits         █████████░░░░░░░░░░░░░░░░   36.94 % 
+🌃 Evening                718 commits         ████████░░░░░░░░░░░░░░░░░   33.61 % 
 🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   379 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Tuesday                  324 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Wednesday                275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Thursday                 288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Friday                   386 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-Saturday                 228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Monday                   379 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Tuesday                  324 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Wednesday                275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Thursday                 289 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Friday                   386 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Saturday                 228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
 Sunday                   255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
 ```
 
@@ -110,16 +110,21 @@ Sunday                   255 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Svelte                   26 mins             ███████████████░░░░░░░░░░   59.03 % 
+TypeScript               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Markdown                 5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  45 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+abishek-devendran        44 mins             █████████████████████████   98.04 % 
+java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -139,6 +144,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2025 00:52:04 UTC
+ Last Updated on 19/12/2025 00:55:44 UTC
 <!--END_SECTION:waka-->
 </details>
