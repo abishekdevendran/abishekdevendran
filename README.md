@@ -75,7 +75,7 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 
 > 📦 139.4 kB Used in GitHub's Storage 
  > 
-> 🏆 104 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -140,6 +140,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 00:57:02 UTC
+ Last Updated on 01/01/2026 01:02:22 UTC
 <!--END_SECTION:waka-->
 </details>
