@@ -65,7 +65,7 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C492%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C495%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -110,16 +110,21 @@ Sunday                   255 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 5 mins        ███████████████████████░░   90.44 % 
+Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   2 hrs 4 mins        ███████████████░░░░░░░░░░   60.78 % 
+VS Code                  1 hr 20 mins        ██████████░░░░░░░░░░░░░░░   39.22 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Athlinked-Web            3 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -139,6 +144,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 19/01/2026 01:01:15 UTC
+ Last Updated on 20/01/2026 00:56:36 UTC
 <!--END_SECTION:waka-->
 </details>
