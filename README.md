@@ -65,15 +65,15 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C502%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C507%20hrs%2047%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.31%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 139.4 kB Used in GitHub's Storage 
+> 📦 139.3 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -110,23 +110,23 @@ Sunday                   255 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               7 hrs 6 mins        █████████████████░░░░░░░░   67.21 % 
-JavaScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-SCSS                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Bash                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+TypeScript               10 hrs 15 mins      ████████████████░░░░░░░░░   65.81 % 
+JavaScript               1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Other                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Bash                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+SCSS                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 🔥 Editors: 
-Cursor                   7 hrs 43 mins       ██████████████████░░░░░░░   73.10 % 
-VS Code                  2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+Cursor                   10 hrs 47 mins      █████████████████░░░░░░░░   69.26 % 
+VS Code                  4 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   30.74 % 
 
 🐱‍💻 Projects: 
-Athlinked-Web            7 hrs 52 mins       ███████████████████░░░░░░   74.60 % 
-salem-dharanidharan-portf2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-website-fe               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Athlinked-Web            12 hrs 53 mins      █████████████████████░░░░   82.78 % 
+salem-dharanidharan-portf2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+website-fe               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 💻 Operating System: 
-Windows                  10 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -146,6 +146,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 22/01/2026 00:57:42 UTC
+ Last Updated on 23/01/2026 00:58:09 UTC
 <!--END_SECTION:waka-->
 </details>
