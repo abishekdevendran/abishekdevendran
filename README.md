@@ -65,7 +65,7 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C557%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C558%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -110,22 +110,18 @@ Sunday                   255 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               8 hrs 36 mins       ████████████████████████░   96.75 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Docker                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               4 hrs 38 mins       █████████████████████████   99.95 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 57 mins       █████████████████░░░░░░░░   67.00 % 
-VS Code                  2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.00 % 
+Cursor                   3 hrs 4 mins        █████████████████░░░░░░░░   66.22 % 
+VS Code                  1 hr 34 mins        ████████░░░░░░░░░░░░░░░░░   33.78 % 
 
 🐱‍💻 Projects: 
-team-catalyst-mvp        8 hrs 34 mins       ████████████████████████░   96.29 % 
-Athlinked-Web            19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+team-catalyst-mvp        4 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -145,6 +141,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2026 01:13:52 UTC
+ Last Updated on 26/02/2026 01:07:23 UTC
 <!--END_SECTION:waka-->
 </details>
