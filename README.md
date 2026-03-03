@@ -65,7 +65,7 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C559%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C560%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -110,19 +110,19 @@ Sunday                   255 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 19 mins       █████████████████████████   99.89 % 
+TypeScript               3 hrs 6 mins        █████████████████████████   99.88 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Cursor                   1 hr 45 mins        █████████████░░░░░░░░░░░░   52.55 % 
-VS Code                  1 hr 34 mins        ████████████░░░░░░░░░░░░░   47.45 % 
+VS Code                  1 hr 42 mins        ██████████████░░░░░░░░░░░   54.55 % 
+Cursor                   1 hr 25 mins        ███████████░░░░░░░░░░░░░░   45.45 % 
 
 🐱‍💻 Projects: 
-team-catalyst-mvp        3 hrs 20 mins       █████████████████████████   100.00 % 
+team-catalyst-mvp        3 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -142,6 +142,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2026 01:08:23 UTC
+ Last Updated on 03/03/2026 01:10:13 UTC
 <!--END_SECTION:waka-->
 </details>
