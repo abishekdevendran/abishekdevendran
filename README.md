@@ -110,17 +110,16 @@ Sunday                   255 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   17 mins             ███████████████░░░░░░░░░░   61.98 % 
-VS Code                  10 mins             ██████████░░░░░░░░░░░░░░░   38.02 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-team-catalyst-mvp        28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -140,6 +139,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 11/03/2026 01:05:05 UTC
+ Last Updated on 12/03/2026 01:01:58 UTC
 <!--END_SECTION:waka-->
 </details>
