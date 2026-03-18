@@ -65,7 +65,7 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C560%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C561%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -110,16 +110,22 @@ Sunday                   255 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               11 mins             █████████████████████████   100.00 % 
+TypeScript               11 mins             ██████████████░░░░░░░░░░░   57.12 % 
+Python                   5 mins              ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+Other                    2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔥 Editors: 
-Cursor                   11 mins             █████████████████████████   100.00 % 
+Cursor                   11 mins             ██████████████░░░░░░░░░░░   57.12 % 
+VS Code                  8 mins              ███████████░░░░░░░░░░░░░░   42.88 % 
 
 🐱‍💻 Projects: 
-team-catalyst-mvp        11 mins             █████████████████████████   100.00 % 
+team-catalyst-mvp        11 mins             ██████████████░░░░░░░░░░░   57.12 % 
+Demo                     6 mins              ████████░░░░░░░░░░░░░░░░░   31.97 % 
+Unknown Project          2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -139,6 +145,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2026 01:09:10 UTC
+ Last Updated on 18/03/2026 01:14:08 UTC
 <!--END_SECTION:waka-->
 </details>
