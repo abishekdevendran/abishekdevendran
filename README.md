@@ -65,9 +65,9 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C579%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C579%20hrs%2040%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.32%20million%20lines%20of%20code-blue?style=flat)
 
@@ -110,21 +110,21 @@ Sunday                   255 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 39 mins       ██████████████████████░░░   89.85 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Git                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+TypeScript               4 hrs 23 mins       ██████████████████████░░░   87.31 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Git                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 51 mins       ███████████████████████░░   93.14 % 
-Cursor                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+VS Code                  4 hrs 51 mins       ████████████████████████░   96.33 % 
+Cursor                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🐱‍💻 Projects: 
-knowledgenudge           6 hrs 17 mins       █████████████████████████   100.00 % 
+knowledgenudge           5 hrs 2 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -144,6 +144,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 08/04/2026 01:19:52 UTC
+ Last Updated on 09/04/2026 01:10:24 UTC
 <!--END_SECTION:waka-->
 </details>
