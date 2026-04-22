@@ -65,7 +65,7 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C588%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C591%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -110,20 +110,21 @@ Sunday                   255 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               54 mins             ███████░░░░░░░░░░░░░░░░░░   28.79 % 
-Java Properties          49 mins             ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-JSON                     39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-JavaScript               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+TypeScript               2 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.29 % 
+Java Properties          1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+JSON                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+JavaScript               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Other                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 38 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-knowledgenudge           3 hrs 9 mins        █████████████████████████   100.00 % 
+knowledgenudge           5 hrs 37 mins       █████████████████████████   99.97 % 
+website-fe               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -143,6 +144,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2026 01:24:40 UTC
+ Last Updated on 22/04/2026 01:23:08 UTC
 <!--END_SECTION:waka-->
 </details>
