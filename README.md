@@ -65,7 +65,7 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C629%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C637%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -73,9 +73,9 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 
 **🐱 My GitHub Data** 
 
-> 📦 139.9 kB Used in GitHub's Storage 
+> 📦 140.0 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2026
+> 🏆 17 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -83,53 +83,6 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
  > 
 > 🔑 16 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                571 commits         ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-🌆 Daytime                783 commits         █████████░░░░░░░░░░░░░░░░   36.47 % 
-🌃 Evening                747 commits         █████████░░░░░░░░░░░░░░░░   34.79 % 
-🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   401 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Tuesday                  319 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Wednesday                276 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Thursday                 290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Friday                   390 commits         █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-Saturday                 216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Sunday                   255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               4 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-Java Properties          4 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-JavaScript               3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-YAML                     2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Other                    1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-
-🔥 Editors: 
-VS Code                  17 hrs 2 mins       ████████████████████████░   97.16 % 
-Unknown Editor           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-
-🐱‍💻 Projects: 
-knowledgenudge           11 hrs 43 mins      █████████████████░░░░░░░░   66.86 % 
-website-fe               4 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-control-plane            1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-
-💻 Operating System: 
-Windows                  16 hrs 16 mins      ███████████████████████░░   92.79 % 
-Linux                    1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -147,6 +100,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 02:04:01 UTC
+ Last Updated on 15/05/2026 02:02:09 UTC
 <!--END_SECTION:waka-->
 </details>
