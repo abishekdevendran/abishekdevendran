@@ -65,9 +65,9 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C711%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C713%20hrs%2050%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.32%20million%20lines%20of%20code-blue?style=flat)
 
@@ -110,22 +110,23 @@ Sunday                   256 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 45 mins       ███████████████████████░░   93.27 % 
-Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+TypeScript               4 hrs 57 mins       ████████████████████░░░░░   78.36 % 
+TSConfig                 43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 12 mins       █████████████████████░░░░   82.60 % 
-VS Code                  53 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Claude Code              3 hrs 21 mins       █████████████░░░░░░░░░░░░   52.96 % 
+VS Code                  1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   30.86 % 
+Antigravity IDE          1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
 
 🐱‍💻 Projects: 
-UI_Testing_Dashboard     5 hrs 5 mins        █████████████████████████   99.77 % 
-testRepo                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+UI_Testing_Dashboard     6 hrs 19 mins       █████████████████████████   99.81 % 
+testRepo                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Windows                  5 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  6 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -145,6 +146,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2026 02:03:27 UTC
+ Last Updated on 07/07/2026 01:58:46 UTC
 <!--END_SECTION:waka-->
 </details>
