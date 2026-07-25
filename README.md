@@ -65,6 +65,8 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C733%20hrs%2024%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.36%20million%20lines%20of%20code-blue?style=flat)
@@ -81,51 +83,6 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
  > 
 > 🔑 16 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                574 commits         ███████░░░░░░░░░░░░░░░░░░   26.61 % 
-🌆 Daytime                783 commits         █████████░░░░░░░░░░░░░░░░   36.30 % 
-🌃 Evening                749 commits         █████████░░░░░░░░░░░░░░░░   34.72 % 
-🌙 Night                  51 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   403 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Tuesday                  321 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Wednesday                276 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Thursday                 290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Friday                   391 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Saturday                 217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Sunday                   259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Svelte                   6 hrs 14 mins       ███████████████░░░░░░░░░░   59.41 % 
-TypeScript               2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-CSS                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Gettext Catalog          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 26 mins      █████████████████████████   99.45 % 
-Copilot CLI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-
-🐱‍💻 Projects: 
-CurrentIrukka            10 hrs 27 mins      █████████████████████████   99.57 % 
-agents-locale-change-curr2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-
-💻 Operating System: 
-Linux                    10 hrs 30 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -143,6 +100,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 01:30:25 UTC
+ Last Updated on 25/07/2026 01:30:53 UTC
 <!--END_SECTION:waka-->
 </details>
