@@ -110,22 +110,20 @@ Sunday                   259 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Svelte                   6 hrs 14 mins       ███████████████░░░░░░░░░░   59.63 % 
-TypeScript               2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-CSS                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Gettext Catalog          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Svelte                   2 hrs 1 min         ██████████████████░░░░░░░   73.58 % 
+CSS                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Gettext Catalog          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 24 mins      █████████████████████████   99.44 % 
-Copilot CLI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+VS Code                  2 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CurrentIrukka            10 hrs 25 mins      █████████████████████████   99.57 % 
-agents-locale-change-curr2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+CurrentIrukka            2 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    2 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -145,6 +143,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 01:44:34 UTC
+ Last Updated on 27/07/2026 01:51:36 UTC
 <!--END_SECTION:waka-->
 </details>
