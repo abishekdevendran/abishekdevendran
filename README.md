@@ -65,7 +65,9 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C733%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C690%20hrs%2021%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -110,20 +112,24 @@ Sunday                   259 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Svelte                   2 hrs 1 min         ██████████████████░░░░░░░   73.58 % 
-CSS                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Gettext Catalog          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Svelte                   40 mins             ██████████████████████░░░   89.26 % 
+TypeScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Gettext Catalog          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 45 mins       █████████████████████████   100.00 % 
+VS Code                  44 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CurrentIrukka            2 hrs 45 mins       █████████████████████████   100.00 % 
+CurrentIrukka            44 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 45 mins       █████████████████████████   100.00 % 
+Linux                    44 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -143,6 +149,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 01:51:36 UTC
+ Last Updated on 28/07/2026 01:26:18 UTC
 <!--END_SECTION:waka-->
 </details>
