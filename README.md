@@ -112,18 +112,16 @@ Sunday                   259 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Svelte                   40 mins             ██████████████████████░░░   89.26 % 
-TypeScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Gettext Catalog          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CurrentIrukka            44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -149,6 +147,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 01:26:18 UTC
+ Last Updated on 29/07/2026 01:26:36 UTC
 <!--END_SECTION:waka-->
 </details>
