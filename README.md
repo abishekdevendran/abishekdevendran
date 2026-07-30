@@ -65,9 +65,9 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C690%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C692%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -112,22 +112,43 @@ Sunday                   259 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 39 mins        ████████████████░░░░░░░░░   64.28 % 
+Other                    23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+TSConfig                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              2 hrs 12 mins       ██████████████████████░░░   86.07 % 
+VS Code                  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+UI_Testing_Dashboard     2 hrs 34 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 19 mins (90.15%)
+
+✍️ 5,573 lines written by AI, 1 lines written by hand (99.98% AI-written)
+
+🔤 77,898,854 Input Tokens, 135,590 Output Tokens
+
+💵 $235.73 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 21 AI Prompts
+
+Sonnet                   6,427 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.98% of written lines came from AI
+📄 Detailed Prompter — average 1,027 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,6 +168,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 01:26:36 UTC
+ Last Updated on 30/07/2026 01:19:34 UTC
 <!--END_SECTION:waka-->
 </details>
