@@ -65,6 +65,10 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C702%20hrs%204%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%201%20min-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.36%20million%20lines%20of%20code-blue?style=flat)
@@ -81,6 +85,78 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                574 commits         ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+🌆 Daytime                783 commits         █████████░░░░░░░░░░░░░░░░   36.30 % 
+🌃 Evening                749 commits         █████████░░░░░░░░░░░░░░░░   34.72 % 
+🌙 Night                  51 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   403 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Tuesday                  321 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Wednesday                276 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Thursday                 290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Friday                   391 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Saturday                 217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Sunday                   259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               3 hrs 9 mins        ███████████████░░░░░░░░░░   61.35 % 
+Other                    35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Java                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+
+🔥 Editors: 
+Claude Code              2 hrs 45 mins       █████████████░░░░░░░░░░░░   53.50 % 
+VS Code                  2 hrs 23 mins       ████████████░░░░░░░░░░░░░   46.50 % 
+
+🐱‍💻 Projects: 
+UI_Testing_Dashboard     4 hrs 40 mins       ███████████████████████░░   90.53 % 
+TeluskoJava              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+website-fe               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+OmniParser               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+testRepo                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+
+💻 Operating System: 
+Windows                  4 hrs 54 mins       ████████████████████████░   95.07 % 
+Linux                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 16 mins (83.04%)
+
+✍️ 348 lines written by AI, 42 lines written by hand (89.23% AI-written)
+
+🔤 29,809,691 Input Tokens, 104,010 Output Tokens
+
+💵 $60.90 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 95 AI Prompts
+
+Sonnet                   379 lines           █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 89.23% of written lines came from AI
+📝 Concise Prompter — average 121 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 12.06% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -98,6 +174,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:03:45 UTC
+ Last Updated on 08/08/2026 00:47:10 UTC
 <!--END_SECTION:waka-->
 </details>
