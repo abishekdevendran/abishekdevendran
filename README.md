@@ -112,47 +112,46 @@ Sunday                   259 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 52 mins        ███████████████████░░░░░░   76.00 % 
-JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+TypeScript               1 hr 45 mins        ██████████████████████░░░   89.21 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-Claude Code              1 hr 45 mins        ██████████████████░░░░░░░   70.87 % 
-VS Code                  43 mins             ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+Claude Code              1 hr 33 mins        ████████████████████░░░░░   79.02 % 
+VS Code                  24 mins             █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
 
 🐱‍💻 Projects: 
-UI_Testing_Dashboard     2 hrs 17 mins       ███████████████████████░░   92.47 % 
-website-fe               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-OmniParser               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-testRepo                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+UI_Testing_Dashboard     1 hr 47 mins        ███████████████████████░░   90.80 % 
+website-fe               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+OmniParser               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Windows                  2 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 8 mins (86.54%)
+⏱ AI Coding Time: 1 hr 56 mins (98.72%)
 
 ✍️ 222 lines written by AI, 21 lines written by hand (91.36% AI-written)
 
-🔤 22,044,474 Input Tokens, 75,737 Output Tokens
+🔤 16,954,744 Input Tokens, 67,013 Output Tokens
 
-💵 $45.08 Estimated AI Cost This Week
+💵 $34.82 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 49 AI Prompts
+🧠 4 AI Sessions, 34 AI Prompts
 
-Sonnet                   226 lines           █████████████████████████   100.00 % 
+Sonnet                   223 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 91.36% of written lines came from AI
-📝 Concise Prompter — average 145 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 8.87% of changed lines were hand-edited
+📝 Concise Prompter — average 184 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 11.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -172,6 +171,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 00:52:45 UTC
+ Last Updated on 12/08/2026 00:59:41 UTC
 <!--END_SECTION:waka-->
 </details>
