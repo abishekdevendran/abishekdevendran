@@ -112,19 +112,16 @@ Sunday                   259 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     8 mins              █████████████████████████   98.77 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Java                     8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TeluskoJava              8 mins              █████████████████████████   98.77 % 
-UI_Testing_Dashboard     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+TeluskoJava              8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 mins              █████████████████████████   98.77 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Linux                    8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -150,6 +147,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 00:35:16 UTC
+ Last Updated on 19/08/2026 00:36:02 UTC
 <!--END_SECTION:waka-->
 </details>
