@@ -65,7 +65,7 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C702%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C705%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%201%20min-blue?style=flat)
 
@@ -112,16 +112,23 @@ Sunday                   259 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 hrs 15 mins       ██████████████████░░░░░░░   71.08 % 
+Kotlin                   23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+textmate                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+TOML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            3 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+java-scratchpad          2 hrs 3 mins        ████████████████░░░░░░░░░   64.67 % 
+java-deep-dive           31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Unknown Project          21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+simplekafka              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -147,6 +154,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 00:38:40 UTC
+ Last Updated on 24/08/2026 00:37:38 UTC
 <!--END_SECTION:waka-->
 </details>
