@@ -65,9 +65,9 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C705%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C708%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-110%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -112,29 +112,44 @@ Sunday                   259 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     2 hrs 32 mins       ██████████████████░░░░░░░   73.25 % 
-Kotlin                   23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-textmate                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-TOML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Rust                     1 hr 58 mins        █████████████████░░░░░░░░   66.98 % 
+TOML                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Markdown                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Java                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 26 mins        ████████████░░░░░░░░░░░░░   49.25 % 
+Antigravity Desktop      1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   40.86 % 
+IntelliJ IDEA            17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
 
 🐱‍💻 Projects: 
-java-scratchpad          2 hrs 19 mins       █████████████████░░░░░░░░   67.25 % 
-java-deep-dive           31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Unknown Project          22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-simplekafka              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+dots-and-boxes           2 hrs 38 mins       ███████████████████████░░   90.11 % 
+java-scratchpad          16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 Operating System: 
-Linux                    3 hrs 27 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 1 min (68.92%)
+
+✍️ 0 lines written by AI, 248 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 72 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 249 characters per prompt
+🔁 Iterative Prompter — average 36 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -154,6 +169,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 02:13:05 UTC
+ Last Updated on 31/08/2026 02:08:35 UTC
 <!--END_SECTION:waka-->
 </details>
