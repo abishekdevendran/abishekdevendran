@@ -65,9 +65,9 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C708%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C710%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-110%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-111%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -112,43 +112,43 @@ Sunday                   259 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Rust                     1 hr 58 mins        █████████████████░░░░░░░░   66.98 % 
-TOML                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Markdown                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Java                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Rust                     2 hrs 57 mins       ███████████████░░░░░░░░░░   59.69 % 
+Python                   45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+TOML                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Java                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 
 🔥 Editors: 
-VS Code                  1 hr 26 mins        ████████████░░░░░░░░░░░░░   49.25 % 
-Antigravity Desktop      1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   40.86 % 
-IntelliJ IDEA            17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+VS Code                  2 hrs 38 mins       █████████████░░░░░░░░░░░░   53.36 % 
+Antigravity Desktop      2 hrs 1 min         ██████████░░░░░░░░░░░░░░░   40.77 % 
+IntelliJ IDEA            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 
 🐱‍💻 Projects: 
-dots-and-boxes           2 hrs 38 mins       ███████████████████████░░   90.11 % 
-java-scratchpad          16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+dots-and-boxes           4 hrs 39 mins       ████████████████████████░   94.14 % 
+java-scratchpad          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Linux                    2 hrs 56 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 1 min (68.92%)
+⏱ AI Coding Time: 3 hrs 37 mins (73.02%)
 
-✍️ 0 lines written by AI, 248 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 799 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 72 AI Prompts
+🧠 3 AI Sessions, 126 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 249 characters per prompt
-🔁 Iterative Prompter — average 36 prompts per session
+📝 Concise Prompter — average 327 characters per prompt
+🔁 Iterative Prompter — average 42 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -169,6 +169,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 02:08:35 UTC
+ Last Updated on 01/09/2026 02:28:53 UTC
 <!--END_SECTION:waka-->
 </details>
