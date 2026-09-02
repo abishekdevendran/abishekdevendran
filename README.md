@@ -65,9 +65,9 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C710%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C713%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-111%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -75,34 +75,34 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 
 **🐱 My GitHub Data** 
 
-> 📦 141.3 kB Used in GitHub's Storage 
+> 📦 171.4 kB Used in GitHub's Storage 
  > 
-> 🏆 35 Contributions in the Year 2026
+> 🏆 50 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 70 Public Repositories 
+> 📜 71 Public Repositories 
  > 
 > 🔑 16 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                574 commits         ███████░░░░░░░░░░░░░░░░░░   26.61 % 
-🌆 Daytime                783 commits         █████████░░░░░░░░░░░░░░░░   36.30 % 
-🌃 Evening                749 commits         █████████░░░░░░░░░░░░░░░░   34.72 % 
-🌙 Night                  51 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+🌞 Morning                574 commits         ███████░░░░░░░░░░░░░░░░░░   26.45 % 
+🌆 Daytime                784 commits         █████████░░░░░░░░░░░░░░░░   36.13 % 
+🌃 Evening                758 commits         █████████░░░░░░░░░░░░░░░░   34.93 % 
+🌙 Night                  54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   403 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Tuesday                  321 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Wednesday                276 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Thursday                 290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Friday                   391 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Saturday                 217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Sunday                   259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Monday                   407 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Tuesday                  328 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Wednesday                276 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Thursday                 290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Friday                   391 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Saturday                 217 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Sunday                   261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
 ```
 
 
@@ -112,54 +112,54 @@ Sunday                   259 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Rust                     2 hrs 57 mins       ███████████████░░░░░░░░░░   59.69 % 
-Python                   45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-TOML                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Java                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Rust                     4 hrs 17 mins       ██████████████░░░░░░░░░░░   54.39 % 
+Python                   2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.23 % 
+TOML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Java                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 38 mins       █████████████░░░░░░░░░░░░   53.36 % 
-Antigravity Desktop      2 hrs 1 min         ██████████░░░░░░░░░░░░░░░   40.77 % 
-IntelliJ IDEA            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Antigravity Desktop      4 hrs 3 mins        █████████████░░░░░░░░░░░░   51.41 % 
+VS Code                  3 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.91 % 
+IntelliJ IDEA            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 🐱‍💻 Projects: 
-dots-and-boxes           4 hrs 39 mins       ████████████████████████░   94.14 % 
-java-scratchpad          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+dots-and-boxes           7 hrs 36 mins       ████████████████████████░   96.32 % 
+java-scratchpad          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Linux                    4 hrs 57 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 37 mins (73.02%)
+⏱ AI Coding Time: 6 hrs 25 mins (81.35%)
 
-✍️ 0 lines written by AI, 799 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,306 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 126 AI Prompts
+🧠 6 AI Sessions, 201 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 327 characters per prompt
-🔁 Iterative Prompter — average 42 prompts per session
+📝 Concise Prompter — average 428 characters per prompt
+🔁 Iterative Prompter — average 34 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-Svelte                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Rust                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Svelte                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Rust                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 
 
@@ -169,6 +169,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 02:28:53 UTC
+ Last Updated on 02/09/2026 01:49:48 UTC
 <!--END_SECTION:waka-->
 </details>
