@@ -65,9 +65,9 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C715%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C716%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -112,46 +112,46 @@ Sunday                   261 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Rust                     4 hrs 17 mins       ███████████░░░░░░░░░░░░░░   43.54 % 
-Python                   3 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   39.70 % 
-TOML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Python                   4 hrs 27 mins       ███████████░░░░░░░░░░░░░░   42.65 % 
+Rust                     4 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   41.06 % 
+TOML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 44 mins       ███████████████░░░░░░░░░░   58.16 % 
-Antigravity Desktop      4 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.16 % 
-Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+VS Code                  6 hrs 17 mins       ███████████████░░░░░░░░░░   60.12 % 
+Antigravity Desktop      4 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.81 % 
+Codex Vscode             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🐱‍💻 Projects: 
-dots-and-boxes           7 hrs 36 mins       ███████████████████░░░░░░   77.11 % 
-Ncert                    2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+dots-and-boxes           7 hrs 36 mins       ██████████████████░░░░░░░   72.72 % 
+Ncert                    2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.28 % 
 
 💻 Operating System: 
-Linux                    7 hrs 36 mins       ███████████████████░░░░░░   77.11 % 
-Windows                  2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+Linux                    7 hrs 36 mins       ██████████████████░░░░░░░   72.72 % 
+Windows                  2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.28 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 38 mins (67.4%)
+⏱ AI Coding Time: 6 hrs 41 mins (63.98%)
 
-✍️ 38 lines written by AI, 2,232 lines written by hand (1.67% AI-written)
+✍️ 123 lines written by AI, 2,322 lines written by hand (5.03% AI-written)
 
-🔤 63,975 Input Tokens, 4,795 Output Tokens
+🔤 125,455 Input Tokens, 10,477 Output Tokens
 
-💵 $0.38 Estimated AI Cost This Week
+💵 $0.88 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 204 AI Prompts
+🧠 13 AI Sessions, 208 AI Prompts
 
-GPT                      38 lines            █████████████████████████   100.00 % 
+GPT                      123 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.67% of written lines came from AI
-📝 Concise Prompter — average 442 characters per prompt
-🔁 Iterative Prompter — average 23 prompts per session
-🔍 Hands-On Reviewer — 98.48% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 5.03% of written lines came from AI
+📝 Concise Prompter — average 441 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🔍 Hands-On Reviewer — 95.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -171,6 +171,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 01:50:12 UTC
+ Last Updated on 05/09/2026 01:51:00 UTC
 <!--END_SECTION:waka-->
 </details>
