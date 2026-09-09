@@ -112,46 +112,43 @@ Sunday                   261 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 42 mins       ████████████████░░░░░░░░░   64.02 % 
-Rust                     1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Bash                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Python                   2 hrs 18 mins       ████████████████████░░░░░   80.97 % 
+Bash                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 38 mins       ████████████████░░░░░░░░░   62.88 % 
-Antigravity Desktop      2 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   35.19 % 
-Codex Vscode             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+VS Code                  2 hrs 44 mins       ████████████████████████░   95.87 % 
+Codex Vscode             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-dots-and-boxes           2 hrs 56 mins       █████████████░░░░░░░░░░░░   50.76 % 
-Ncert                    2 hrs 51 mins       ████████████░░░░░░░░░░░░░   49.24 % 
+Ncert                    2 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 56 mins       █████████████░░░░░░░░░░░░   50.76 % 
-Windows                  2 hrs 51 mins       ████████████░░░░░░░░░░░░░   49.24 % 
+Windows                  2 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 4 mins (53.04%)
+⏱ AI Coding Time: 16 mins (9.4%)
 
-✍️ 123 lines written by AI, 1,529 lines written by hand (7.45% AI-written)
+✍️ 123 lines written by AI, 1,022 lines written by hand (10.74% AI-written)
 
 🔤 125,455 Input Tokens, 10,477 Output Tokens
 
 💵 $0.88 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 82 AI Prompts
+🧠 7 AI Sessions, 7 AI Prompts
 
 GPT                      123 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 7.45% of written lines came from AI
-📄 Detailed Prompter — average 616 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 92.79% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 10.74% of written lines came from AI
+📄 Detailed Prompter — average 836 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 89.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -171,6 +168,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 01:54:09 UTC
+ Last Updated on 09/09/2026 02:00:15 UTC
 <!--END_SECTION:waka-->
 </details>
