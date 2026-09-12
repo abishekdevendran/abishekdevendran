@@ -112,42 +112,22 @@ Sunday                   261 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   32 mins             ████████████████░░░░░░░░░   65.91 % 
-Bash                     15 mins             ████████░░░░░░░░░░░░░░░░░   32.23 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Bash                     13 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  46 mins             ███████████████████████░░   93.95 % 
-Codex Vscode             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Ncert                    49 mins             █████████████████████████   100.00 % 
+Ncert                    13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.00 % 
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (5.38%)
-
-✍️ 85 lines written by AI, 90 lines written by hand (48.57% AI-written)
-
-🔤 61,480 Input Tokens, 5,682 Output Tokens
-
-💵 $0.50 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 4 AI Prompts
-
-GPT                      85 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 48.57% of written lines came from AI
-📝 Concise Prompter — average 419 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 51.7% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -167,6 +147,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 01:54:50 UTC
+ Last Updated on 12/09/2026 01:59:54 UTC
 <!--END_SECTION:waka-->
 </details>
