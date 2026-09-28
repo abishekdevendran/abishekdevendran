@@ -112,50 +112,48 @@ Sunday                   261 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     9 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.28 % 
-Python                   6 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   30.30 % 
-TypeScript               1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Java                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Other                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+JSON                     9 hrs 24 mins       ███████████░░░░░░░░░░░░░░   45.27 % 
+Python                   6 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   32.45 % 
+TypeScript               1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Other                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 12 mins      █████████████░░░░░░░░░░░░   50.42 % 
-Claude Code              8 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   38.37 % 
-Codex Vscode             1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Antigravity Desktop      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+VS Code                  10 hrs 17 mins      ████████████░░░░░░░░░░░░░   49.57 % 
+Claude Code              8 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   41.09 % 
+Codex Vscode             1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
 
 🐱‍💻 Projects: 
-JBL_Scraping             10 hrs 28 mins      ████████████░░░░░░░░░░░░░   47.13 % 
-Harman_Dashboard         3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Scraping                 3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-battlecode26-scaffold    1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-JBL_Dashboard            1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+JBL_Scraping             10 hrs 28 mins      █████████████░░░░░░░░░░░░   50.46 % 
+Harman_Dashboard         3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Scraping                 3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+JBL_Dashboard            1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+skilltrack-api           1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 
 💻 Operating System: 
-Windows                  20 hrs 46 mins      ███████████████████████░░   93.39 % 
-Linux                    1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Windows                  20 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 46 mins (70.92%)
+⏱ AI Coding Time: 14 hrs 38 mins (70.51%)
 
-✍️ 11,362 lines written by AI, 180,449 lines written by hand (5.92% AI-written)
+✍️ 11,362 lines written by AI, 180,397 lines written by hand (5.93% AI-written)
 
 🔤 3,985,889 Input Tokens, 686,249 Output Tokens
 
 💵 $40.54 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 260 AI Prompts
+🧠 22 AI Sessions, 232 AI Prompts
 
 Sonnet                   11,084 lines        ███████████████████████░░   93.09 % 
 GPT                      823 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.92% of written lines came from AI
-📄 Detailed Prompter — average 1,315 characters per prompt
+🧑‍💻 Mostly Hands-On — 5.93% of written lines came from AI
+📄 Detailed Prompter — average 1,418 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
 🔍 Hands-On Reviewer — 97.97% of changed lines were hand-edited
 ```
@@ -177,6 +175,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 02:21:08 UTC
+ Last Updated on 28/09/2026 02:25:04 UTC
 <!--END_SECTION:waka-->
 </details>
