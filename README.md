@@ -65,9 +65,9 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C741%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C743%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-135%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -112,50 +112,50 @@ Sunday                   261 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     9 hrs 24 mins       ███████████░░░░░░░░░░░░░░   45.27 % 
-Python                   6 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   32.45 % 
-TypeScript               1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Other                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+JSON                     8 hrs 38 mins       ████████████░░░░░░░░░░░░░   46.92 % 
+Python                   4 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+TypeScript               2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Other                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+CSV                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 17 mins      ████████████░░░░░░░░░░░░░   49.57 % 
-Claude Code              8 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   41.09 % 
-Codex Vscode             1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+VS Code                  9 hrs 21 mins       █████████████░░░░░░░░░░░░   50.83 % 
+Claude Code              7 hrs 54 mins       ███████████░░░░░░░░░░░░░░   42.97 % 
+Codex Vscode             1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 
 🐱‍💻 Projects: 
-JBL_Scraping             10 hrs 28 mins      █████████████░░░░░░░░░░░░   50.46 % 
-Harman_Dashboard         3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Scraping                 3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-JBL_Dashboard            1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-skilltrack-api           1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+JBL_Scraping             11 hrs              ███████████████░░░░░░░░░░   59.84 % 
+Harman_Dashboard         5 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+skilltrack-api           1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+skilltrack               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Demo                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 💻 Operating System: 
-Windows                  20 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 38 mins (70.51%)
+⏱ AI Coding Time: 13 hrs 16 mins (72.14%)
 
-✍️ 11,362 lines written by AI, 180,397 lines written by hand (5.93% AI-written)
+✍️ 10,148 lines written by AI, 180,452 lines written by hand (5.32% AI-written)
 
-🔤 3,985,889 Input Tokens, 686,249 Output Tokens
+🔤 3,603,693 Input Tokens, 579,517 Output Tokens
 
-💵 $40.54 Estimated AI Cost This Week
+💵 $37.27 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 232 AI Prompts
+🧠 20 AI Sessions, 229 AI Prompts
 
-Sonnet                   11,084 lines        ███████████████████████░░   93.09 % 
-GPT                      823 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Sonnet                   9,828 lines         ████████████████████████░   94.18 % 
+GPT                      607 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.93% of written lines came from AI
-📄 Detailed Prompter — average 1,418 characters per prompt
+🧑‍💻 Mostly Hands-On — 5.32% of written lines came from AI
+📄 Detailed Prompter — average 1,452 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🔍 Hands-On Reviewer — 97.97% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 98.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -175,6 +175,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 02:25:04 UTC
+ Last Updated on 29/09/2026 03:09:03 UTC
 <!--END_SECTION:waka-->
 </details>
