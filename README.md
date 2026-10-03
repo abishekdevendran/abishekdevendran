@@ -112,50 +112,45 @@ Sunday                   261 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     8 hrs 24 mins       ███████████░░░░░░░░░░░░░░   45.76 % 
-Python                   5 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.97 % 
-TypeScript               2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Prisma                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+JSON                     5 hrs 52 mins       ███████████░░░░░░░░░░░░░░   44.33 % 
+Python                   4 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.01 % 
+TypeScript               1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Prisma                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 15 mins       █████████████░░░░░░░░░░░░   50.34 % 
-VS Code                  8 hrs 52 mins       ████████████░░░░░░░░░░░░░   48.27 % 
-Codex Vscode             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+VS Code                  6 hrs 46 mins       █████████████░░░░░░░░░░░░   51.15 % 
+Claude Code              6 hrs 28 mins       ████████████░░░░░░░░░░░░░   48.85 % 
 
 🐱‍💻 Projects: 
-Harman_Dashboard         13 hrs 57 mins      ███████████████████░░░░░░   75.92 % 
-JBL_Scraping             2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-skilltrack-api           1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-skilltrack               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Demo                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Harman_Dashboard         12 hrs 38 mins      ████████████████████████░   95.35 % 
+JBL_Scraping             36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 💻 Operating System: 
-Windows                  18 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 40 mins (63.47%)
+⏱ AI Coding Time: 8 hrs 12 mins (61.87%)
 
-✍️ 6,405 lines written by AI, 177,510 lines written by hand (3.48% AI-written)
+✍️ 890 lines written by AI, 99,406 lines written by hand (0.89% AI-written)
 
-🔤 1,912,277 Input Tokens, 580,882 Output Tokens
+🔤 1,299,337 Input Tokens, 351,679 Output Tokens
 
-💵 $31.07 Estimated AI Cost This Week
+💵 $21.39 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 152 AI Prompts
+🧠 9 AI Sessions, 77 AI Prompts
 
-Sonnet                   6,428 lines         █████████████████████████   100.00 % 
+Sonnet                   906 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.48% of written lines came from AI
-📝 Concise Prompter — average 328 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🔍 Hands-On Reviewer — 99.04% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.89% of written lines came from AI
+📝 Concise Prompter — average 428 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 99.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -175,6 +170,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 02:59:39 UTC
+ Last Updated on 03/10/2026 02:45:23 UTC
 <!--END_SECTION:waka-->
 </details>
