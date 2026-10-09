@@ -65,9 +65,9 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C767%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C767%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -112,48 +112,48 @@ Sunday                   261 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     8 hrs 14 mins       ████████████░░░░░░░░░░░░░   49.60 % 
-Python                   4 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-TypeScript               1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Bash                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Git Config               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+JSON                     6 hrs 21 mins       ████████████░░░░░░░░░░░░░   46.98 % 
+Python                   3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+TypeScript               1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Bash                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Git Config               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 40 mins       ███████████████░░░░░░░░░░   58.28 % 
-VS Code                  6 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   41.72 % 
+Claude Code              8 hrs               ███████████████░░░░░░░░░░   59.13 % 
+VS Code                  5 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   40.87 % 
 
 🐱‍💻 Projects: 
-Harman_Dashboard         13 hrs 22 mins      ████████████████████░░░░░   80.55 % 
-Demo                     1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-skilltrack               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-skilltrack-api           27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-components               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Harman_Dashboard         10 hrs 17 mins      ███████████████████░░░░░░   75.94 % 
+Demo                     1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+skilltrack               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+skilltrack-api           27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Windows                  16 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 14 mins (67.74%)
+⏱ AI Coding Time: 9 hrs 25 mins (69.54%)
 
-✍️ 4,867 lines written by AI, 68,308 lines written by hand (6.65% AI-written)
+✍️ 4,867 lines written by AI, 40,726 lines written by hand (10.67% AI-written)
 
-🔤 5,438,539 Input Tokens, 878,253 Output Tokens
+🔤 4,818,492 Input Tokens, 764,390 Output Tokens
 
-💵 $58.06 Estimated AI Cost This Week
+💵 $51.50 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 216 AI Prompts
+🧠 10 AI Sessions, 205 AI Prompts
 
 Sonnet                   5,237 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 6.65% of written lines came from AI
-📝 Concise Prompter — average 212 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
-🔍 Hands-On Reviewer — 95.23% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 10.67% of written lines came from AI
+📝 Concise Prompter — average 209 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🔍 Hands-On Reviewer — 93.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -173,6 +173,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 03:25:11 UTC
+ Last Updated on 09/10/2026 03:31:14 UTC
 <!--END_SECTION:waka-->
 </details>
