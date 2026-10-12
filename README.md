@@ -112,48 +112,45 @@ Sunday                   261 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     6 hrs 31 mins       ████████████░░░░░░░░░░░░░   47.48 % 
-Python                   3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-TypeScript               1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Bash                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Git Config               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+JSON                     6 hrs 31 mins       ████████████████░░░░░░░░░   62.05 % 
+Python                   3 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+CSV                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 7 mins        ███████████████░░░░░░░░░░   59.01 % 
-VS Code                  5 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   40.99 % 
+Claude Code              5 hrs 43 mins       ██████████████░░░░░░░░░░░   54.35 % 
+VS Code                  4 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.65 % 
 
 🐱‍💻 Projects: 
-Harman_Dashboard         10 hrs 29 mins      ███████████████████░░░░░░   76.31 % 
-Demo                     1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-skilltrack               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-skilltrack-api           27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Harman_Dashboard         10 hrs 29 mins      █████████████████████████   99.72 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Windows                  13 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 32 mins (69.33%)
+⏱ AI Coding Time: 6 hrs 46 mins (64.39%)
 
-✍️ 4,867 lines written by AI, 40,726 lines written by hand (10.67% AI-written)
+✍️ 2,177 lines written by AI, 40,713 lines written by hand (5.08% AI-written)
 
-🔤 4,835,021 Input Tokens, 767,436 Output Tokens
+🔤 3,969,547 Input Tokens, 452,630 Output Tokens
 
-💵 $51.61 Estimated AI Cost This Week
+💵 $37.28 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 213 AI Prompts
+🧠 9 AI Sessions, 122 AI Prompts
 
-Sonnet                   5,237 lines         █████████████████████████   100.00 % 
+Sonnet                   2,179 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 10.67% of written lines came from AI
-📝 Concise Prompter — average 205 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
-🔍 Hands-On Reviewer — 93.39% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 5.08% of written lines came from AI
+📝 Concise Prompter — average 276 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 97.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -173,6 +170,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 02:42:44 UTC
+ Last Updated on 12/10/2026 03:06:47 UTC
 <!--END_SECTION:waka-->
 </details>
