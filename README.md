@@ -65,9 +65,9 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C768%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C769%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -112,45 +112,45 @@ Sunday                   261 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     6 hrs 31 mins       ████████████████░░░░░░░░░   62.05 % 
-Python                   3 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   28.70 % 
-CSV                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+JSON                     3 hrs 30 mins       ███████████░░░░░░░░░░░░░░   44.93 % 
+Python                   1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+Bash                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+TypeScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+CSV                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 43 mins       ██████████████░░░░░░░░░░░   54.35 % 
-VS Code                  4 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.65 % 
+Claude Code              4 hrs 3 mins        █████████████░░░░░░░░░░░░   51.87 % 
+VS Code                  3 hrs 45 mins       ████████████░░░░░░░░░░░░░   48.13 % 
 
 🐱‍💻 Projects: 
-Harman_Dashboard         10 hrs 29 mins      █████████████████████████   99.72 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Harman_Dashboard         7 hrs 46 mins       █████████████████████████   99.62 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 💻 Operating System: 
-Windows                  10 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 46 mins (64.39%)
+⏱ AI Coding Time: 4 hrs 54 mins (62.88%)
 
-✍️ 2,177 lines written by AI, 40,713 lines written by hand (5.08% AI-written)
+✍️ 2,234 lines written by AI, 18,518 lines written by hand (10.77% AI-written)
 
-🔤 3,969,547 Input Tokens, 452,630 Output Tokens
+🔤 2,375,650 Input Tokens, 256,699 Output Tokens
 
-💵 $37.28 Estimated AI Cost This Week
+💵 $17.35 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 122 AI Prompts
+🧠 9 AI Sessions, 84 AI Prompts
 
-Sonnet                   2,179 lines         █████████████████████████   100.00 % 
+Sonnet                   2,236 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.08% of written lines came from AI
-📝 Concise Prompter — average 276 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🔍 Hands-On Reviewer — 97.14% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 10.77% of written lines came from AI
+📝 Concise Prompter — average 337 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 89.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -170,6 +170,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2026 03:06:47 UTC
+ Last Updated on 13/10/2026 04:22:54 UTC
 <!--END_SECTION:waka-->
 </details>
