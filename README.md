@@ -112,36 +112,36 @@ Sunday                   261 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               8 hrs 4 mins        █████████████░░░░░░░░░░░░   51.83 % 
-Bash                     2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Python                   1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-JSON                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+TypeScript               8 hrs 4 mins        █████████████░░░░░░░░░░░░   52.54 % 
+Bash                     2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Python                   1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+JSON                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 49 mins       ████████████████░░░░░░░░░   63.04 % 
-VS Code                  4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
-Codex Vscode             1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Claude Code              9 hrs 43 mins       ████████████████░░░░░░░░░   63.20 % 
+VS Code                  3 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+Codex Vscode             1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
 
 🐱‍💻 Projects: 
-Harman_Dashboard         15 hrs 35 mins      █████████████████████████   100.00 % 
+Harman_Dashboard         15 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 8 mins (84.29%)
+⏱ AI Coding Time: 13 hrs 1 min (84.69%)
 
 ✍️ 8,054 lines written by AI, 5,705 lines written by hand (58.54% AI-written)
 
-🔤 4,361,085 Input Tokens, 967,766 Output Tokens
+🔤 4,344,556 Input Tokens, 964,720 Output Tokens
 
-💵 $68.44 Estimated AI Cost This Week
+💵 $68.32 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 275 AI Prompts
+🧠 16 AI Sessions, 267 AI Prompts
 
 Sonnet                   5,706 lines         ███████████████░░░░░░░░░░   61.75 % 
 Opus                     3,318 lines         █████████░░░░░░░░░░░░░░░░   35.91 % 
@@ -151,8 +151,8 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 58.54% of written lines came from AI
-📝 Concise Prompter — average 392 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
+📝 Concise Prompter — average 401 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
 🔍 Hands-On Reviewer — 53.19% of changed lines were hand-edited
 ```
 
@@ -173,6 +173,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 01:59:22 UTC
+ Last Updated on 18/10/2026 01:58:13 UTC
 <!--END_SECTION:waka-->
 </details>
