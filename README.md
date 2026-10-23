@@ -65,9 +65,9 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C791%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C793%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-172%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -112,48 +112,46 @@ Sunday                   261 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               9 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.00 % 
-Python                   4 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-JSON                     2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Bash                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+TypeScript               5 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   39.68 % 
+Python                   4 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.15 % 
+JSON                     2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 9 mins       ███████████████████░░░░░░   75.49 % 
-VS Code                  2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Codex Vscode             1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Claude Code              11 hrs 55 mins      ████████████████████░░░░░   81.28 % 
+VS Code                  2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Codex Vscode             34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 🐱‍💻 Projects: 
-Harman_Dashboard         18 hrs 45 mins      █████████████████████████   100.00 % 
+Harman_Dashboard         14 hrs 39 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  18 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 29 mins (93.23%)
+⏱ AI Coding Time: 13 hrs 23 mins (91.32%)
 
-✍️ 6,090 lines written by AI, 315 lines written by hand (95.08% AI-written)
+✍️ 1,556 lines written by AI, 150 lines written by hand (91.21% AI-written)
 
-🔤 5,642,496 Input Tokens, 975,633 Output Tokens
+🔤 4,279,394 Input Tokens, 553,681 Output Tokens
 
-💵 $86.34 Estimated AI Cost This Week
+💵 $56.54 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 369 AI Prompts
+🧠 11 AI Sessions, 316 AI Prompts
 
-Sonnet                   3,737 lines         █████████████░░░░░░░░░░░░   51.39 % 
-Opus                     3,318 lines         ███████████░░░░░░░░░░░░░░   45.63 % 
-GPT                      217 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Sonnet                   1,716 lines         █████████████████████████   98.73 % 
+GPT                      22 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.08% of written lines came from AI
-📝 Concise Prompter — average 315 characters per prompt
-🔁 Iterative Prompter — average 23 prompts per session
-🚀 High AI Trust — 21.17% of changed lines were hand-edited
+🤖 AI-Driven — 91.21% of written lines came from AI
+📝 Concise Prompter — average 130 characters per prompt
+🔁 Iterative Prompter — average 29 prompts per session
+🔍 Hands-On Reviewer — 50.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -173,6 +171,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 02:19:05 UTC
+ Last Updated on 23/10/2026 02:24:39 UTC
 <!--END_SECTION:waka-->
 </details>
