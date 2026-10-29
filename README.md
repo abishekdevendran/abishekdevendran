@@ -65,9 +65,9 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C797%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C799%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-178%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-180%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -112,44 +112,44 @@ Sunday                   261 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 24 mins       ████████████░░░░░░░░░░░░░   46.55 % 
-Python                   2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-JSON                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Bash                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+TypeScript               4 hrs 11 mins       ████████████░░░░░░░░░░░░░   47.74 % 
+Python                   1 hr 56 mins        ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+Bash                     57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+JSON                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 32 mins       ████████████████████░░░░░   79.48 % 
-VS Code                  1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+Claude Code              6 hrs 27 mins       ██████████████████░░░░░░░   73.56 % 
+VS Code                  2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
 
 🐱‍💻 Projects: 
-Harman_Dashboard         9 hrs 28 mins       █████████████████████████   100.00 % 
+Harman_Dashboard         8 hrs 46 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 16 mins (87.34%)
+⏱ AI Coding Time: 7 hrs 33 mins (86.15%)
 
-✍️ 137 lines written by AI, 15 lines written by hand (90.13% AI-written)
+✍️ 167 lines written by AI, 23 lines written by hand (87.89% AI-written)
 
-🔤 2,648,401 Input Tokens, 302,090 Output Tokens
+🔤 1,498,091 Input Tokens, 251,577 Output Tokens
 
-💵 $32.52 Estimated AI Cost This Week
+💵 $18.92 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 178 AI Prompts
+🧠 11 AI Sessions, 168 AI Prompts
 
-Sonnet                   137 lines           █████████████████████████   100.00 % 
+Sonnet                   167 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.13% of written lines came from AI
-📝 Concise Prompter — average 110 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 9.87% of changed lines were hand-edited
+🤖 AI-Driven — 87.89% of written lines came from AI
+📝 Concise Prompter — average 113 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 15.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -169,6 +169,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 02:55:50 UTC
+ Last Updated on 29/10/2026 03:19:48 UTC
 <!--END_SECTION:waka-->
 </details>
