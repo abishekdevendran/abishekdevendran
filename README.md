@@ -112,42 +112,42 @@ Sunday                   261 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 55 mins       ████████████░░░░░░░░░░░░░   47.67 % 
-Python                   2 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-JSON                     1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+TypeScript               3 hrs 55 mins       ████████████░░░░░░░░░░░░░   48.11 % 
+Python                   2 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+JSON                     1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 40 mins       █████████████████░░░░░░░░   68.82 % 
-VS Code                  2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   31.18 % 
+Claude Code              5 hrs 35 mins       █████████████████░░░░░░░░   68.55 % 
+VS Code                  2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   31.45 % 
 
 🐱‍💻 Projects: 
-Harman_Dashboard         8 hrs 14 mins       █████████████████████████   100.00 % 
+Harman_Dashboard         8 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 14 mins (88.01%)
+⏱ AI Coding Time: 7 hrs 10 mins (87.91%)
 
 ✍️ 433 lines written by AI, 11 lines written by hand (97.52% AI-written)
 
-🔤 1,152,150 Input Tokens, 209,706 Output Tokens
+🔤 1,132,104 Input Tokens, 206,723 Output Tokens
 
-💵 $11.39 Estimated AI Cost This Week
+💵 $11.26 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 135 AI Prompts
+🧠 10 AI Sessions, 131 AI Prompts
 
 Sonnet                   436 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 97.52% of written lines came from AI
-📝 Concise Prompter — average 115 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+📝 Concise Prompter — average 118 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
 🚀 High AI Trust — 4.6% of changed lines were hand-edited
 ```
 
@@ -168,6 +168,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2026 03:05:33 UTC
+ Last Updated on 01/11/2026 03:00:57 UTC
 <!--END_SECTION:waka-->
 </details>
