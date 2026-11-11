@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abishek Devendran</h1>
-<h3 align="center">Software Development Engineer (SDE-I) at Amazon 📦</h3>
+<h3 align="center">Software Development Engineer at Amazon 📦</h3>
 <p align="center">
   Building scalable distributed systems & obsessing over performance.
 </p>
@@ -25,8 +25,8 @@
 
 I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. My background is heavy in the JS/TS ecosystem, but I am now deep-diving into **Java, Spring Boot, and AWS** to build high-throughput enterprise systems.
 
-- 🔭 **Working on:** High-scale backend services and [Chain Reaction](https://github.com/abishekdevendran/Chain-Reaction).
-- 🌱 **Learning:** Advanced Java Concurrency, JVM Internals, and System Design patterns.
+- 🔭 **Working on:** High-scale backend services.
+- 🌱 **Learning:** Advanced Java Concurrency, Rust, and System Design patterns.
 - 💬 **Ask me about:** Backend Architecture, Node.js, and transitioning from TS to Java.
 
 ---
@@ -61,113 +61,8 @@ I am a Backend Engineer based in **Chennai**, currently building at **Amazon**. 
 
 ---
 
-<details>
+<!-- <details>
 <summary>⚡ <strong>Weekly Coding Activity</strong></summary>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C804%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-184%20hrs%208%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.36%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 171.4 kB Used in GitHub's Storage 
- > 
-> 🏆 50 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 71 Public Repositories 
- > 
-> 🔑 16 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                574 commits         ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-🌆 Daytime                784 commits         █████████░░░░░░░░░░░░░░░░   36.13 % 
-🌃 Evening                758 commits         █████████░░░░░░░░░░░░░░░░   34.93 % 
-🌙 Night                  54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   407 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Tuesday                  328 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Wednesday                276 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Thursday                 290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Friday                   391 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Saturday                 217 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Sunday                   261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               3 hrs 55 mins       ████████████░░░░░░░░░░░░░   48.11 % 
-Python                   2 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   28.86 % 
-JSON                     1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-
-🔥 Editors: 
-Claude Code              5 hrs 35 mins       █████████████████░░░░░░░░   68.55 % 
-VS Code                  2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   31.45 % 
-
-🐱‍💻 Projects: 
-Harman_Dashboard         8 hrs 9 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  8 hrs 9 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 7 hrs 10 mins (87.91%)
-
-✍️ 433 lines written by AI, 11 lines written by hand (97.52% AI-written)
-
-🔤 1,132,104 Input Tokens, 206,723 Output Tokens
-
-💵 $11.26 Estimated AI Cost This Week
-
-🧠 10 AI Sessions, 131 AI Prompts
-
-Sonnet                   436 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 97.52% of written lines came from AI
-📝 Concise Prompter — average 118 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 4.6% of changed lines were hand-edited
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-Svelte                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Rust                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/abishekdevendran/abishekdevendran/main/assets/bar_graph.png)
-
-
- Last Updated on 01/11/2026 03:00:57 UTC
-<!--END_SECTION:waka-->
-</details>
+</details> -->
